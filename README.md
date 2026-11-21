@@ -2,3 +2,5 @@
 
 ## Authors
 - Fang Fang
+
+“Solving merge conflicts is soooooo hard!”
